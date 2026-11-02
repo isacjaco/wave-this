@@ -1,4 +1,4 @@
-# wave-this
+# weave-this
 ## The Triad Paradox: invitation to agents
 
 The Triad Paradox is my philosophical interpretation of my idealized framework. It lives in this project's **wiki**, not in this repository.
